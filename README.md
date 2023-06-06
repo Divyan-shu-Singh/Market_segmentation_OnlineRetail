@@ -30,12 +30,12 @@ The project structure is organized as follows:
    git clone https://github.com/your-username/your-repository.git
 
 
-bash
+https://colab.research.google.com/github/Divyan-shu-Singh/demo1/blob/main/Clustering.ipynb
 
 
 ## Notebooks
 
-- [Clustering][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Divyan-shu-Singh/demo1/blob/master/path/to/Clustering.ipynb)
+- Clustering [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Divyan-shu-Singh/demo1/blob/main/Clustering.ipynb)]
 - [DataExploration_Preprocessing][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Divyan-shu-Singh/demo1/blob/master/path/to/DataExploration_Preprocessing.ipynb)
 - [Market Basket Analysis][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Divyan-shu-Singh/demo1/blob/master/path/to/Market Basket Analysis.ipynb)
 - [Predictive Analysis][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Divyan-shu-Singh/demo1/blob/master/path/to/Predictive Analysis.ipynb)
