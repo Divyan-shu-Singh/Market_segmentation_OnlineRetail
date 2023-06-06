@@ -32,8 +32,8 @@ Clone the repository:
 
 - Clustering [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Divyan-shu-Singh/demo1/blob/main/Clustering.ipynb)
 - DataExploration_Preprocessing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Divyan-shu-Singh/demo1/blob/main/DataExploration_Preprocessing.ipynb)
-- Market Basket Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Divyan-shu-Singh/demo1/blob/main/Market Basket Analysis.ipynb)
-- Predictive Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Divyan-shu-Singh/demo1/blob/main/Predictive Analysis.ipynb)
+- Market Basket Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Divyan-shu-Singh/demo1/blob/main/Market_Basket_Analysis.ipynb)
+- Predictive Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Divyan-shu-Singh/demo1/blob/main/Predictive_Analysis.ipynb)
 
 
 ## Data
