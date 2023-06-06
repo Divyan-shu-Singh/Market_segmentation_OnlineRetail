@@ -19,13 +19,13 @@ The project structure is organized as follows:
 
 - `data/`: Contains the raw and preprocessed datasets.
 - `notebooks/`: Jupyter notebooks used for exploratory data analysis and model development.
-- 
+
 ## Installation
 
 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Divyan-shu-Singh/Market_segmentation_OnlineRetail.git
 ```
 
 ## Notebooks
